@@ -9,3 +9,4 @@
 - [changes start screen stuff](/FILES/pressstart.rps3.MD)
 - [loading screen items](/FILES/tiploader.rps3.MD)
 - [changes trick display](/FILES/trickdisplay2.rps3.MD)
+- [changes loading icons](/FILES/autosave.rps3.MD)
