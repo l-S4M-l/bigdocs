@@ -1,4 +1,4 @@
 # bigdocs
 ## Files 
 
-- [modify the pause menu icons](/FILES/core_menu_rps3.MD)
+- [modify the pause menu icons](/FILES/core_menu.rps3.MD)
