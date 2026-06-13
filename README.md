@@ -10,3 +10,7 @@
 - [loading screen items](/FILES/tiploader.rps3.MD)
 - [changes trick display](/FILES/trickdisplay2.rps3.MD)
 - [changes loading icons](/FILES/autosave.rps3.MD)
+
+
+## base files + edit workflow
+[download](https://fileditchfiles.me/alpha8/5bcb4669f1b1386cf799/SETUP.zip)
